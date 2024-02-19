@@ -106,7 +106,9 @@ TBD <br />
 ## <a class="anchor" name="program">Program</a>
 
 TBD
+
 <!--
+
 #### Opening and Invited Talk (Chair: Ignacio Laguna)
 <table>
 <tr><td class="block" style="width:25%">9:00am - 9:10am:</td> <td>  <b> Opening remarks</b>  </td> </tr>
