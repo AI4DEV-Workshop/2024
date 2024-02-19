@@ -7,11 +7,11 @@ layout: home
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<center><h2>AI4DEV 2023: First Workshop on AI Assisted Software Development for HPC</h2></center>
-<center><h4> November 13th, 2023 (half day, 9:00am - 12:30pm MST) </h4></center>
-<center><h4> Colorado Convention Center </h4></center>
-<center><h4> Denver, Colorado, USA </h4></center>
-<center><h4> Held in conjunction with SC23: <a href="https://sc23.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h4></center>
+<center><h2>2nd Workshop on AI Assisted Software Development for HPC (AI4DEV’24)</h2></center>
+<center><h4> November XX, 2024 (half day, TIME MST) </h4></center>
+<center><h4> Georgia World Congress Center </h4></center>
+<center><h4> Atlanta, Georgia, USA </h4></center>
+<center><h4> Held in conjunction with SC24: <a href="https://sc24.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h4></center>
 <center>
 In cooperation with <br />
 <a href="http://www.computer.org">
@@ -61,16 +61,16 @@ The proceedings will be archived in IEEE Xplore.
 
 ## <a class="anchor" name="dates"> Important Dates </a>
 
-* Paper submissions due: ~~August 7th, 2023~~ **Extended:** August 13, 2023
-* Notification of acceptance: ~~September 4th, 2023~~ **Extended:** September 8th, 2023
-* Camera-ready papers due: September 27, 2023
+* Paper submissions due: TBD
+* Notification of acceptance: TBD
+* Camera-ready papers due: TBD
 
 All time zones are AOE.
 
 ## <a class="anchor" name="date">Workshop Date</a>
 
 - Half-day Workshop
-- November 13th, 2023, 9:00am - 12:30pm MST
+- November Xth, 2024, 9:00am - 12:30pm MST
 
 ## <a class="anchor" name="org">Organizers</a>
 
@@ -81,6 +81,9 @@ All time zones are AOE.
 
 ## <a class="anchor" name="pc">Program Committee</a>
 
+TBD <br />
+
+<!--
 * Jan Hückelheim, Argonne National Laboratory
 * Nikhil Jain, NVIDIA
 * Tarindu Jayatilaka, Purdue University
@@ -92,15 +95,18 @@ All time zones are AOE.
 * EunJung (EJ) Park, Qualcomm Inc.
 * Pavlos Petoumenos, University of Manchester
 * Kento Sato, RIKEN
-* Keren Zhou, OpenAI 
+* Keren Zhou, OpenAI
+-->
 
 ## <a class="anchor" name="venue">Venue</a>
 
-- Colorado Convention Center, Denver, CO, USA
-- Room: 601
+- Georgia World Congress Center, Atlanta, Georgia, USA
+- Room: XX
 
 ## <a class="anchor" name="program">Program</a>
 
+TBD
+<!--
 #### Opening and Invited Talk (Chair: Ignacio Laguna)
 <table>
 <tr><td class="block" style="width:25%">9:00am - 9:10am:</td> <td>  <b> Opening remarks</b>  </td> </tr>
@@ -123,6 +129,8 @@ All time zones are AOE.
 <tr><td class="block" style="width:25%">11:10am - 11:50am:</td> <td> Invited Talk: <b>LLVM in the age of LLMs: Machine Learning for IR and optimization and more</b>, William S. Moses </td> </tr>
 <tr><td class="block" style="width:25%">11:50am - 12:30am:</td> <td> Invited Talk: <b>Unlocking the Potential of Large Language Models for High-Performance Computing Code</b>, Gal Oren  </td> </tr>
 </table>
+
+-->
 
 ##  <a class="anchor" name="contact">Contact Information</a>
 Please address workshop questions to Giorgis Georgakoudis (georgakoudis1@llnl.gov), Ignacio Laguna (ilaguna@llnl.gov), and/or Konstantinos Parasyris (parasyris1@llnl.gov).
