@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AI4DEV Workshop 2023
+title: AI4DEV Workshop 2024
 #email: your-email@example.com
 #description: 
-baseurl: "/2023" # the subpath of your site, e.g. /blog
-url: "https://ai4dev-workshop.github.io/2023/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/2024" # the subpath of your site, e.g. /blog
+url: "https://ai4dev-workshop.github.io/2024/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
