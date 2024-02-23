@@ -137,6 +137,6 @@ TBD
 ##  <a class="anchor" name="contact">Contact Information</a>
 Please address workshop questions to Giorgis Georgakoudis (georgakoudis1@llnl.gov), Ignacio Laguna (ilaguna@llnl.gov), and/or Konstantinos Parasyris (parasyris1@llnl.gov).
 
----
-### <a class="anchor" name="previous">Previous Workshops</a>
+
+## <a class="anchor" name="previous">Previous Workshops</a>
 - [AI4DEV 2023](https://ai4dev-workshop.github.io/2023/)
